@@ -19,13 +19,10 @@
   - `console.log()`, `JSON.parse()`, `document.getElementById()` など
 
 ## 🔧 使い方
-1. このリポジトリをクローン
-git clone　　https://github.com/doyase/typing-game/ cd typing-game
-
-markdown
-コピーする
-編集する
-2. `index.html` をブラウザで開く
+1. [このリポジトリをクローン](https://github.com/doyase/typing-game/)  
+   `git clone https://github.com/doyase/typing-game/`  
+   `cd typing-game`  
+   `index.html` をブラウザで開く
 
 ## 🚀 特徴
 - **スコアによって出題が Python → C → JavaScript と変化**
