@@ -19,6 +19,11 @@
   - `console.log()`, `JSON.parse()`, `document.getElementById()` など
 
 ## 🔧 使い方
+### **🎮 ゲームをプレイする**
+🔗 **[こちらをクリック！](https://doyase.github.io/typing-game/)**  
+（ブラウザで開くだけでプレイできます！）
+
+### **💻 手元で動かす場合**
 1. [このリポジトリをクローン](https://github.com/doyase/typing-game/)  
    `git clone https://github.com/doyase/typing-game/`  
    `cd typing-game`  
