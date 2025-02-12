@@ -1,1 +1,70 @@
+body {
+    background: linear-gradient(45deg, #1e3c72, #2a5298);
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+input {
+    font-size: 18px;
+    padding: 10px;
+    margin-top: 20px;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.2);
+    color: white;
+    outline: none;
+}
+
+input::placeholder {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+button {
+    display: inline-block;
+    background-color: #6200ea;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: #3700b3 !important;
+    transform: scale(1.05) !important;
+}
+
+#word {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+#score, #time {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+#highscore {
+    font-size: 20px;
+    color: lightgreen;
+    margin-top: 10px;
+}
+
+#difficulty {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.correct {
+    background-color: limegreen;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.wrong {
+    background-color: lightcoral;
+    transition: background-color 0.2s ease-in-out;
+}
 
