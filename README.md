@@ -1,5 +1,8 @@
 # 🎮 タイピングゲーム (Typing Game)
 
+[![タイピングゲームのデモ](https://img.youtube.com/vi/Q1EzDhsCFqk/0.jpg)](https://youtu.be/Q1EzDhsCFqk)
+
+
 ## 🔹 概要
 このゲームは **Python → C → JavaScript** のプログラミング単語を出題するタイピングゲームです！  
 スコアに応じて **難易度が自動で変化** します。
