@@ -20,7 +20,7 @@
 
 ## 🔧 使い方
 1. このリポジトリをクローン
-git clone https://github.com/doyase/typing-game.git cd typing-game
+git clone https://github.com/doyase/typing-game/ cd typing-game
 
 markdown
 コピーする
